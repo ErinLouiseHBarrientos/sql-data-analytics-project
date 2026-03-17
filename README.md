@@ -81,3 +81,6 @@ This project is useful for:
 ## 📄 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
+
+## 🌕 About Me
+Hello! I'm **Erin Louise H. Barrientos**. I'm an IT professional and an aspiring data specialist committed to creating value and generating actionable insisghts. I'll see you in the next one, Ciao! (づ ᴗ _ᴗ)づ♡
